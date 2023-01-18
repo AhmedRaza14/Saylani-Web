@@ -1,0 +1,50 @@
+.bcd{
+    display:flex;
+}
+#abc{
+padding-left: 65px;
+
+
+}
+button{
+background-color: rgb(39, 39, 207);
+color: white;
+width: 200px;
+height: 35px;
+padding-left: 40px;
+border-radius: 20px;
+padding-top: 30px;
+
+
+}
+.S{
+display: inline;
+text-align: left;
+
+
+}
+#ER{
+    color: green !important;
+}
+.w{
+display: inline;
+
+
+}
+#j{
+color: greenyellow;
+
+}
+#l{
+    font-size:larger;
+}
+.d{
+    display:flex;
+}
+#i{
+    background-color: greenyellow;
+    color: white;
+width: 50px;
+height: 10px;
+text-align: center !important;
+}
